@@ -1,0 +1,83 @@
+[
+    {
+        "id":"HeadBoy",
+        "Nominee1":"MITHUL PRANAV",
+        "n1-image":"mithul.jpg",
+        "n1-vote":"0",
+        "Nominee2":"AKIF",
+        "n2-image":"akif.jpg",
+        "n2-vote":"0"
+
+    },
+    {
+        "id":"HeadGirl",
+        "Nominee1":"PRATHIKSHA",
+        "n1-image":"./mithul.jpg",
+        "n1-vote":"0",
+        "Nominee2":"SAKTHI DEVI",
+        "n2-image":"./akif.jpg",
+        "n2-vote":"0"
+    },
+    {
+        "id":"JuniorHeadBoy",
+        "Nominee1":"SIVESHNATH",
+        "n1-image":"./mithul.jpg",
+        "n1-vote":"0",
+        "Nominee2":"DHARANEESH",
+        "n2-image":"./akif.jpg",
+        "n2-vote":"0"
+
+    },
+    {
+        "id":"JuniorHeadGirl",
+        "Nominee1":"LYDIA FLORENCE",
+        "n1-image":"./mithul.jpg",
+        "n1-vote":"0",
+        "Nominee2":"SHRISUBANITHI",
+        "n2-image":"./akif.jpg",
+        "n2-vote":"0",
+        "Nominee3":"THANUNITHA",
+        "n3-image":"./akif.jpg",
+        "n3-vote":"0"
+    },
+    {
+        "id":"DeputyHeadBoy",
+        "Nominee1":"HARSHAN KRISHNA",
+        "n1-image":"./mithul.jpg",
+        "n1-vote":"0",
+        "Nominee2":"RAAGAV",
+        "n2-image":"./akif.jpg",
+        "n2-vote":"0"
+    },
+    {
+        "id":"DeputyHeadGirl",
+        "Nominee1":"AMAANI",
+        "n1-image":"./mithul.jpg",
+        "n1-vote":"0",
+        "Nominee2":"THARUNA",
+        "n2-image":"./akif.jpg",
+        "n2-vote":"0"
+    },
+    {
+        "id":"SportsCaptainBoy",
+        "Nominee1":"DEVADHARSHAN",
+        "n1-image":"./mithul.jpg",
+        "n1-vote":"0",
+        "Nominee2":"THARANIDHARAN",
+        "n2-image":"./akif.jpg",
+        "n2-vote":"0"
+    },
+    {
+        "id":"SportsCaptainGirl",
+        "Nominee1":"SHIFA FATHIMA",
+        "n1-image":"./mithul.jpg",
+        "n1-vote":"0",
+        "Nominee2":"RITHU VARSHINI",
+        "n2-image":"./akif.jpg",
+        "n2-vote":"0",
+        "Nominee3":"BIRUNDHA",
+        "n3-image":"./akif.jpg",
+        "n3-vote":"0"
+    }
+
+]

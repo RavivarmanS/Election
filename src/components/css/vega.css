@@ -1,0 +1,13 @@
+#vega-title{
+    background-color: green;
+}
+.vega-main{
+    display: grid;
+}
+.vega-rdbtn{
+    display: inline-flex;
+    
+}
+#vega-rd{
+    padding: 15px;
+}

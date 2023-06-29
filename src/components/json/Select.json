@@ -1,0 +1,52 @@
+{"Grade":[
+    {
+        "id":"ls2",
+        "grade":"LS2"
+    },
+    {
+        "id":"ls3",
+        "grade":"LS3"
+    },
+    {
+        "id":"g1",
+        "grade":"Grade-1"
+    },
+    {
+        "id":"g2",
+        "grade":"Grade-2"
+    },
+    {
+        "id":"g3",
+        "grade":"Grade-3"
+    },
+    {
+        "id":"g4",
+        "grade":"Grade-4"
+    },
+    {
+        "id":"g5",
+        "grade":"Grade-5"
+    },
+    {
+        "id":"g6",
+        "grade":"Grade-6"
+    },
+    {
+        "id":"g7",
+        "grade":"Grade-7"
+    },
+    {
+        "id":"g8",
+        "grade":"Grade-8"
+    },
+    {
+        "id":"g9",
+        "grade":"Grade-9"
+    },
+    {
+        "id":"g10",
+        "grade":"Grade-10"
+    }
+
+]
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "Sno": "1",
+        "Name": "A",
+        "Grade": 2,
+        "Status": "Not Voted"
+    },
+    {
+        "Sno": "2",
+        "Name": "B",
+        "Grade": 3,
+        "Status": "Not Voted"
+    },
+    {
+        "Sno": "3",
+        "Name": "C",
+        "Grade": 4,
+        "Status": "Not Voted"
+    },
+    {
+        "Sno": "4",
+        "Name": "D",
+        "Grade": 7,
+        "Status": "Not Voted"
+    },
+    {
+        "Sno": "5",
+        "Name": "E",
+        "Grade": 9,
+        "Status": "Not Voted"
+    },
+    {
+        "Sno": "6",
+        "Name": "F",
+        "Grade": 5,
+        "Status": "Not Voted"
+    },
+    {
+        "Sno": "7",
+        "Name": "G",
+        "Grade": 7,
+        "Status": "Not Voted"
+    },
+    {
+        "Sno": "8",
+        "Name": "H",
+        "Grade": 8,
+        "Status": "Not Voted"
+    },
+    {
+        "Sno": "9",
+        "Name": "I",
+        "Grade": 11,
+        "Status": "Not Voted"
+    }
+]

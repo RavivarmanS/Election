@@ -1,0 +1,13 @@
+#capella-title{
+    background-color: aqua
+}
+.capella-main{
+    display: grid;
+}
+.capella-rdbtn{
+    display: inline-flex;
+    
+}
+#capella-rd{
+    padding: 15px;
+}

@@ -1,0 +1,32 @@
+.main{
+    display: grid;
+}
+
+  .header{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    background-color: rgb(0, 68, 255);
+  }
+  .result-title{
+    align-items: center;
+    text-align: center;
+  }
+  .position-result{
+    background-color: rgb(255, 199, 116);
+  }
+  .position-head{
+    background-color: rgba(0, 132, 255, 0.993);
+  }
+  .header-canopus{
+    background-color: red;
+  }
+  .header-capella{
+    background-color: aqua;
+  }
+  .header-vega{
+    background-color: green;
+  }
+  .header-sirius{
+    background-color: yellow;
+  }

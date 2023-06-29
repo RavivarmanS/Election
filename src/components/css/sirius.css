@@ -1,0 +1,13 @@
+#sirius-title{
+    background-color: yellow;
+}
+.sirius-main{
+    display: grid;
+}
+.sirius-rdbtn{
+    display: inline-flex;
+    
+}
+#sirius-rd{
+    padding: 15px;
+}

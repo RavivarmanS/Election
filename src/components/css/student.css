@@ -1,0 +1,31 @@
+.main-student{
+  display: flex; 
+}
+.head{
+  background-color: rgb(255, 136, 0);
+}
+.sub-head{
+  background-color: rgb(0, 110, 255);
+}
+.house-head-capella{
+  background-color: aqua;
+}
+.house-head-vega{
+  background-color: green;
+}
+.house-head-sirius{
+  background-color: yellow;
+}
+.house-head-canopus{
+  background-color: red;
+}
+table,th,td{
+  border: 1px solid black;  
+margin-left: auto;  
+margin-right: auto;  
+border-collapse: collapse;    
+width: 500px;  
+text-align: center;  
+font-size: 20px;
+margin-bottom: 10px;
+}

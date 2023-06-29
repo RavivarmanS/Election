@@ -1,0 +1,26 @@
+nav{
+    padding:30px ;
+    background-color: yellow;
+}
+
+input{
+    width: 200px;
+}
+.submit{
+    padding-top: 20px;
+}
+button{
+    width: 80px;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    position: fixed;
+    left: 5px;
+    top: 32px;
+}
+.login-body{
+    background-color: orangered;
+    padding-top: 50px;
+    padding-bottom: 308px;
+}

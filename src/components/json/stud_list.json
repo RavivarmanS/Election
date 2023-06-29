@@ -1,0 +1,752 @@
+[
+ {
+  "Grade": "G3",
+  "Name": "HASHMIDHA.S",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G3",
+  "Name": "MANAV.V.NAIR",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G3",
+  "Name": "SASHWIN VAIBHAV. K.K",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G3",
+  "Name": "VINIEETH",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G3",
+  "Name": "ADHVI",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G3",
+  "Name": "KIRUSHVIKA.M",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G3",
+  "Name": "LISHANTH. R. L",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G3",
+  "Name": "RITIK VITUR",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G3",
+  "Name": "ASWANTH. S",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G3",
+  "Name": "JEFFRIN BLESSO. D",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G3",
+  "Name": "MEGHA. V",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G3",
+  "Name": "SADURTHIKA G.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G3",
+  "Name": "DAKSHINA .N.V",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G3",
+  "Name": "FARIDHA FATHIMA",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G3",
+  "Name": "PON CHIDAMBARI",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G3",
+  "Name": "SHAKTHI VISHAKAN. Y",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G4",
+  "Name": "AKSHATH.U.K",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G4",
+  "Name": "HARISUDHAN P.",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G4",
+  "Name": "MAHI VENBA",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G4",
+  "Name": "SARVESH. P.D",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G4",
+  "Name": "SASWATH",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G4",
+  "Name": "THARUN ADHITHYA",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G4",
+  "Name": "HARISHANTH",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G4",
+  "Name": "MALINI R.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G4",
+  "Name": "PRANAV.D",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G4",
+  "Name": "SRIKRITHI",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G4",
+  "Name": "SRIMATHI G.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G4",
+  "Name": "AHAN .V.V",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G4",
+  "Name": "CHAITANYA L.B.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G4",
+  "Name": "DEEPAK. N",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G4",
+  "Name": "NITHILAA G.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G4",
+  "Name": "RIYTHWIN AKSHITH. D",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G4",
+  "Name": "SAANVIKA.M",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G4",
+  "Name": "ABHAY THARUN",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G4",
+  "Name": "ANJHANA KRISHNA",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G4",
+  "Name": "GABRIELA ROY. N",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G4",
+  "Name": "HASHINI PRAKALYA V.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G4",
+  "Name": "VETHA RITHIKA",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G5",
+  "Name": "DHIKSAN.A.K",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G5",
+  "Name": "HARINI R.",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G5",
+  "Name": "KALPHAJA. J",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G5",
+  "Name": "MANTHAN KOTHARI J.",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G5",
+  "Name": "SARA GRACE. A",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G5",
+  "Name": "SHIVANI. V",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G5",
+  "Name": "ANANYA J.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G5",
+  "Name": "ILAKKIYA MOORTHI",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G5",
+  "Name": "JEFFERSON EDEN RAJ J.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G5",
+  "Name": "MIRUTHUVIKA. S",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G5",
+  "Name": "MITHUL KRITHIK",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G5",
+  "Name": "RITHUN.S",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G5",
+  "Name": "ASWATHA SELVARAJ",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G5",
+  "Name": "DHEER PAREEK",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G5",
+  "Name": "DHYAN PAREEK",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G5",
+  "Name": "HANSIKA V.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G5",
+  "Name": "LITHIK GUHAN V.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G5",
+  "Name": "SHREYAS RAJ.K",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G5",
+  "Name": "ASHVATHRAAM M.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G5",
+  "Name": "KATHIRAVAN.B.K",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G5",
+  "Name": "LITESH ABINAV D.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G5",
+  "Name": "MINHA S.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G5",
+  "Name": "SASTHIK E.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G5",
+  "Name": "VASUNDRA.R.V",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G6",
+  "Name": "DHARSHAN.A.S",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G6",
+  "Name": "PAVIN",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G6",
+  "Name": "RAKSITHA.B.S",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G6",
+  "Name": "VISRUTH VADIVELAN",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G6",
+  "Name": "DARSHAN C.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G6",
+  "Name": "SHRI SUBANITHI. K",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G6",
+  "Name": "SIVESH NATH S.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G6",
+  "Name": "VIYASINI. S.J",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G6",
+  "Name": "AGRIMA PANDEY",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G6",
+  "Name": "DHARANEESH. J",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G6",
+  "Name": "SATHVIKA. S.V",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G6",
+  "Name": "THANU NITHA. D",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G6",
+  "Name": "CHIRANJEEV RAM",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G6",
+  "Name": "HARSHITH. S",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G6",
+  "Name": "SHRI CHIDAMBARI S.V.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G6",
+  "Name": "YAKSHITHA.M",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G7",
+  "Name": "ABHINAV J.",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G7",
+  "Name": "LAKSITA.D",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G7",
+  "Name": "NIKHIL KISHORE",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G7",
+  "Name": "PRANIEETH",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G7",
+  "Name": "TINISHA DEVORA",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G7",
+  "Name": "YUVAN RUBAN",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G7",
+  "Name": "FAREEZ. H",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G7",
+  "Name": "HARSHAN SURYAH P.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G7",
+  "Name": "JASWITHA. B",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G7",
+  "Name": "PRAJITH.K.G",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G7",
+  "Name": "RITHIHA SHREE R.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G7",
+  "Name": "SHRI HARI MURUGAPPAN.D",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G7",
+  "Name": "VEDANT JOSHI (Staff)",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G7",
+  "Name": "AJAY KANNA K.S",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G7",
+  "Name": "DEBINO STEVANY. A.N",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G7",
+  "Name": "HARSHITH.V.J",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G7",
+  "Name": "PRERNA PANDEY",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G7",
+  "Name": "SAIMITRA.G",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G7",
+  "Name": "VARUNAN G.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G7",
+  "Name": "ASMITHA E.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G7",
+  "Name": "DHAKSHIN SRINIVAS",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G7",
+  "Name": "GAUTAM KOTHARI",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G7",
+  "Name": "JAY AKASH M.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G7",
+  "Name": "RAKSHITA S.P.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G7",
+  "Name": "SARVESH S.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G8",
+  "Name": "DIYA B. (Staff)",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G8",
+  "Name": "MADHUMITHRA. V.S",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G8",
+  "Name": "SUJITH PRANAV",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G8",
+  "Name": "GOWTHAM. S",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G8",
+  "Name": "SURYA S.S.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G8",
+  "Name": "AATHIRAI B.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G8",
+  "Name": "KEERTHI VARMAN M.S.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G8",
+  "Name": "VIDYUTHA T.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G9",
+  "Name": "AKSHADA LIJU .C",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G9",
+  "Name": "RITHISH P.D.",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G9",
+  "Name": "SHRUTI KOTHARI",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G9",
+  "Name": "THANISHA. M.S",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G9",
+  "Name": "VIVEKA. R",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G9",
+  "Name": "ADVAYDH R.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G9",
+  "Name": "GURUCHARAN H.S.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G9",
+  "Name": "PRANAV P.A.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G9",
+  "Name": "RITISH KUMAR",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G9",
+  "Name": "SHRIKA K.P.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G9",
+  "Name": "VARNA RAAGAVI C.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G9",
+  "Name": "DURGESH M.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G9",
+  "Name": "MOWLISH. R.J",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G9",
+  "Name": "RUTHRESH. B.V",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G9",
+  "Name": "SANCHIT",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G9",
+  "Name": "SHREEJIT KARMAKAR",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G9",
+  "Name": "DANVARSHINI S.T.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G9",
+  "Name": "JEEVA BHARATHI",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G9",
+  "Name": "KRISHMA. S.V",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G9",
+  "Name": "LYNN TRESA FRANCIS",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G9",
+  "Name": "ROHIT. C",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G9",
+  "Name": "RUDY CHRISTUS. A",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G10",
+  "Name": "ASHRAQ AHAMED",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G10",
+  "Name": "PRANESH K.R.",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G10",
+  "Name": "YASHITA. S",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G10",
+  "Name": "BARATH V.K.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G10",
+  "Name": "HANSINI K.",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G10",
+  "Name": "THEJASHREE",
+  "House": "Sirius"
+ },
+ {
+  "Grade": "G10",
+  "Name": "ADHARSH RATHINAM",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G10",
+  "Name": "GOKUL. R",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G10",
+  "Name": "HARSHAN KRISHNA. K.S",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G10",
+  "Name": "SANJANA S.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G10",
+  "Name": "AMAANI ABU SUFIYAN",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G10",
+  "Name": "RAGHAV R.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G10",
+  "Name": "THARUNA E.",
+  "House": "Capella"
+ },
+ {
+  "Grade": "G11",
+  "Name": "SAKTHI DEVI S.K.",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G11",
+  "Name": "VINAY SRI RAM R.P.",
+  "House": "Canopus"
+ },
+ {
+  "Grade": "G11",
+  "Name": "SAGANA N.",
+  "House": "Vega"
+ },
+ {
+  "Grade": "G11",
+  "Name": "SHIFA FATHIMA K.S.",
+  "House": "Vega"
+ }
+]

@@ -1,0 +1,13 @@
+#canopus-title{
+    background-color: red;
+}
+.canopus-main{
+    display: grid;
+}
+.canopus-rdbtn{
+    display: inline-flex;
+    
+}
+#canopus-rd{
+    padding: 15px;
+}
